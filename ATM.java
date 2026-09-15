@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class ATM {
   public static int Debit(int b,int a){
     return b-a;}
     public static int Display(int b){
